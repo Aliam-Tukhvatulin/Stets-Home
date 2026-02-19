@@ -31,12 +31,12 @@ Stets Home MVP – первая версия приложения для упр�
 
 ## Артефакты
 
-📄 [Карта пользовательских историй в Miro](https://miro.com/app/board/uXjVJpxouGM=/) 
+📄 [Карта пользовательских историй в Miro](https://miro.com/app/board/uXjVJpxouGM=/)
 📄 [ИНтерактивный прототип в Figma](https://www.figma.com/design/lTUBs63PMqM6waUbpNLqIV/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets-Aliam?node-id=0-1&t=IBmQzpNn601zlsoF-1)
-📄 [Словарь данных](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/df32b9a4d908d4f52ac61bc399af073e8cab0bfd/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Stets%20Home.pdf)  
-📄 [DFD контекстная](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-DFD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F.drawio.svg)  
-📄 [DFD логическая](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-DFD%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5.drawio.svg)  
-📄 [ER-диаграмма Crow’s foots](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-Crow%E2%80%99s%20foots.drawio.svg)  
+📄 [Словарь данных](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/df32b9a4d908d4f52ac61bc399af073e8cab0bfd/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Stets%20Home.pdf)
+📄 [DFD контекстная](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-DFD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F.drawio.svg)
+📄 [DFD логическая](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-DFD%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5.drawio.svg)
+📄 [ER-диаграмма Crow’s foots](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/a5a3e37c24146a34367a0dd939e2d30b7402361b/Stets%20Home%202%20(2)-Crow%E2%80%99s%20foots.drawio.svg)
 📄 [Программа и методика испытаний](https://github.com/Aliam-Tukhvatulin/Stets-Home/blob/df32b9a4d908d4f52ac61bc399af073e8cab0bfd/%D0%9F%D0%9C%D0%98.pdf)  
 
 ---
